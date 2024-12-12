@@ -1,0 +1,6 @@
+pipecat-ai[silero,websocket,deepgram,openai,elevenlabs]==0.0.49
+fastapi~=0.115.0; extra == "websocket"
+uvicorn==0.30.1
+python-json-logger==2.0.2
+requests==2.32.3
+flask==3.0.3
