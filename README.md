@@ -1,4 +1,5 @@
 # HeyGen Pipecat Demo
+NOTE: This is repo is a WIP.
 
 ## Setup
 Python 3.10 or higher
